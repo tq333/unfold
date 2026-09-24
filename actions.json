@@ -1,6 +1,6 @@
 {
-  "version": 1,
-  "updatedAt": "2026-09-22T15:00:00Z",
+  "version": 2,
+  "updatedAt": "2026-09-24T14:30:00Z",
   "actions": [
     { "id": "sewing", "name": "坐姿踩缝纫机", "duration": 30, "sets": 2, "desc": "双脚离地，交替快速轻踩像踩缝纫机踏板那样幅度要小，频率要快。激活胫骨前肌和腓肠肌，促进下肢静脉泵血。", "enabled": true, "order": 1 },
     { "id": "glute", "name": "臀肌夹紧放松", "duration": 5, "sets": 4, "desc": "用力夹紧臀部，想象两瓣屁股中间夹了一张纸。夹紧动作强制唤醒臀大久坐会让臀肌“失忆”肌，减轻腰部代偿压力，从源头上预防腰肌劳损。", "enabled": true, "order": 2 },
